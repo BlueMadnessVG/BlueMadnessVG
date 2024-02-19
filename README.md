@@ -1,17 +1,35 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/BlueMadnessVG/BlueMadnessVG/master/back_img.png)
+![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/BlueMadnessVG/BlueMadnessVG/master/image_2024-02-19_150038274.png)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Christian Armenta</h2>
+<h1 align="center">
+Hi, I'm Christian Armenta Rodriguez!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+ <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
+ <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
+<br/>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Game+Designer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
+
+<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<hr>
+
+```
+I-am-BlueMadnessVG@github
+-------------------------
+💻 I am a self taught Full Stack Developer and a Videogame Developer
+🎓 I have a Bachelors in Software Engineering at University of Sinaloa (Mexico)
+📝 I have a strong interest in Web Developers and Designers an also at Game Desing
+🔭 Working on Web develop & Game Desing
+🌱 Learning about UX/UI Design and Machine Learning stuff
+🚩 In my free time, I pursue Game Design and train MMA.
+💖 You can shoot me an email at car_arca@hotmail.com!
+🎵 Love Ado songs, lofi, jazz and Metal music
+```
+<hr>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
-
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm a graduate of the bachelor's degree in software engineering at Univarsidad Autonoma de Sinaloa (Mexico) .\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Game Design and train MMA / limalama also I'm currently creating my own videogame.\
-💬 &nbsp;Feel free to reach out to me for game design consulting, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at car_arca@hotmail.com! I'll try to respond as soon as I can.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
