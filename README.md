@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/BlueMadnessVG/BlueMadnessVG/master/image_2024-02-19_150038274.png)
+![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/BlueMadnessVG/BlueMadnessVG/master/image_2024-04-04_171929603.png)
 
 <h1 align="center">
 Hi, I'm Christian Armenta Rodriguez!
